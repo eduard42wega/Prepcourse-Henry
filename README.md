@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-REPOSITORIO PRUEBA MODULO 2 HENRY
+este proyecto es una prueba de como crear un repositorio
